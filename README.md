@@ -6,7 +6,7 @@ If you are just looking to download the latest version, head to the forum post h
 
 To install just extract the files into \Darkest Hour\Mods\Kaiserreich for DH 1.8\music
 
-The changelog can be foudn here: http://kaiserreich.wikia.com/wiki/KRDH_Changelog
+The changelog can be found here: http://kaiserreich.wikia.com/wiki/KRDH_Changelog
 
 As of DATE, this project is now open source! You can see the initial announcement here: LINK
 
